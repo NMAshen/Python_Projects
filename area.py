@@ -1,5 +1,5 @@
 # calculate area in rectangle
-#alt + 0178 = ²
+# alt + 0178 = ²
 
 length = float(input("Enter length :"))
 Hieght = float(input("Enter height :"))
