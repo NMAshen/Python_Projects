@@ -1,3 +1,4 @@
+# using ++ operator
 foods = input("if you like foods y/n :").lower()
 
 if foods == "y" :
