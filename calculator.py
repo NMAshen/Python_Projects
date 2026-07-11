@@ -1,4 +1,4 @@
-# Calculator in Python
+# Calculator in Python.
 
 import sys
 
