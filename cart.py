@@ -1,4 +1,4 @@
-#shopping cart items price calculator.
+#shopping cart items price calculator
 
 item = input("What item you buy : ")
 price = float(input("How much is it : "))
