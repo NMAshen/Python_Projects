@@ -20,6 +20,7 @@ if SNum =="":
 fNum = float(fNum)
 SNum = float(SNum)
 
+
 if oper == "+":
         print(round(fNum + SNum, 2))
 elif oper == "-":
