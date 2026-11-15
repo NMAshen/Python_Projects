@@ -21,7 +21,7 @@
 
 #Excersice
 
-name = input(str("Enter your Name : "))
+name = input("Enter your Name : ")
 
 if len(name) >= 12:
     print("Your user name is more than 12 characters")
