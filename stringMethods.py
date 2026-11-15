@@ -30,4 +30,4 @@ elif name.find(" "):
 elif not name.isalpha():
     print("Your username can't contain any numbers or symbols")
 else :
-    print(f"Welcome {name}")
+    print(f"Welcome! {name}")
